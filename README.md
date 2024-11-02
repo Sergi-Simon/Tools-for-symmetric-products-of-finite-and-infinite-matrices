@@ -19,4 +19,4 @@ and a similar (albeit non-monic) construction is also described in
 New files and tools, as well as corrected updates of existing ones, will be routinely added to this repository.
 
 File history:
-1. - FiniteSym_Nov_2_2024, November 2, 2024 (first file)
+1. FiniteSym_Nov_2_2024, November 2, 2024 (first file)
