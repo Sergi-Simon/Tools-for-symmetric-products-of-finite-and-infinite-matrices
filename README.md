@@ -21,4 +21,4 @@ New files and tools, as well as corrected updates of existing ones, will be rout
 File history:
 1. FiniteSym_Nov_2_2024, November 2, 2024
 2. Infinite_and_Finite_Sym_Jan_29_2025, January 29, 2025
-3. Infinite and Finite Symmetric products_Feb_10, February 10, 2025
+3. Infinite and Finite Symmetric products_Feb_10, February 10, 2025, with a minor glitch in the "Sym" function (all other functions are the same as in 2.)
