@@ -1,5 +1,5 @@
 # Tools-for-symmetric-products-of-finite-and-infinite-matrices
-These are tools for the tensor constructions underlying all representations of finite-dimensional dynamical systems as infinite-dimensional linear systems.
+These are tools, written in Mathematica, for the tensor constructions underlying all representations of finite-dimensional dynamical systems as infinite-dimensional linear systems.
 These include the echeloned expressions of the fundamental (and system) matrices for the linearized higher variational equations of arbitrary systems along an arbitrary particular solution.
 
 The references these tools draw from are:
